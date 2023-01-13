@@ -1,1 +1,1 @@
-![alt text](https://github.com/s21165/NAI/Łapka.png)
+![alt text](s21165/NAI/tree/main/Rozpoznawanie%20dłoni/Łapka.png)
